@@ -1,0 +1,2 @@
+# THEORY-OF-COMPUTATION-TOC-Semester-5.
+TOC 
